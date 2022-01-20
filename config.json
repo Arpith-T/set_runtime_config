@@ -1,0 +1,18 @@
+{
+"payload": {
+            "configurationParameters": [
+              {
+                "entity": "workerset.vmargs",
+                "key": "com.sap.it.messaging.jms.connection.pool",
+                "value": "true",
+                "values": [],
+                "valueType": "SINGLE"
+              }
+            ],
+            "scope": "TENANT",
+            "scopeId": "unboxing"
+          },
+  "base_url": "https://it-aciat001-trm.cfapps.sap.hana.ondemand.com",
+  "space_guid": "2c92d3e7-a833-4fbf-89e2-917c07cea220",
+  "cf_url": "https://api.cf.sap.hana.ondemand.com"
+}
